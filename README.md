@@ -1,7 +1,17 @@
 ## Hi there 👋
 
-<!--
-**swayamjk10/swayamjk10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Swayam Korgaonkar] 👋 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+**Discovering possibilities | growing with data-driven insights**
+
+- 🧬 Experienced with [Your Expertise, e.g., transcriptomics, genomics data, etc.]
+- 🔗 Find out more about me here: [swayamkorgaonkar]([https://yourwebsite.com](https://swayamkorgaonkar.my.canva.site/))
+
+---
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamjk10&layout=compact&theme=default)
+
 
 Here are some ideas to get you started:
 
