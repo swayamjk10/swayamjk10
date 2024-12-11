@@ -5,7 +5,7 @@
 **Discovering possibilities | growing with data-driven insights**
 
 - 🧬 Skilled with [exploratory data analysis, statistical analysis, bioinformatics workflows, genomic and transcriptomic studies, next-generation sequencing (NGS), database management systems (DBMS), biological databases, and shell scripting.]
-- 🔗 Find out more about me here: [swayamkorgaonkar]([https://yourwebsite.com](https://swayamkorgaonkar.my.canva.site/))
+- 🔗 Find out more about me here: [swayamkorgaonkar](https://swayamkorgaonkar.my.canva.site/)
 - 📚 Currently in final year of masters in Bioinformatics and System Biology
 
 ---
