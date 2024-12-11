@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-# [Swayam Korgaonkar] 👋 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+# Swayam Korgaonkar 👋 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamkorgaonkar/)
 
 **Discovering possibilities | growing with data-driven insights**
 
-- 🧬 Experienced with [Your Expertise, e.g., transcriptomics, genomics data, etc.]
+- 🧬 Skilled with [exploratory data analysis, statistical analysis, bioinformatics workflows, genomic and transcriptomic studies, next-generation sequencing (NGS), database management systems (DBMS), biological databases, and shell scripting.]
 - 🔗 Find out more about me here: [swayamkorgaonkar]([https://yourwebsite.com](https://swayamkorgaonkar.my.canva.site/))
+- 📚 Currently in final year of masters in Bioinformatics and System Biology
 
 ---
 
