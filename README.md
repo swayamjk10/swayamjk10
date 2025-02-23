@@ -9,10 +9,10 @@
 - 📚 Currently in final year of masters in Bioinformatics and System Biology
   
 ### 🌱 Tools and Technologies
-- **Programming and Scripting:** Python, R, Shell, SQL, Bash, Git
-- **Data Analysis & Visualization:** Power BI, R, Tableau, Orange Data Mining Tool, 
+- **Programming and Scripting:** Python, R, SQL, Bash, Github
+- **Data Analysis & Visualization:** Power BI, R, Tableau, Orange Data Mining Tool, Microsoft excel 
 - **Bioinformatics Workflows:** Genomics, Transcriptomics, Next-Generation Sequencing
-- **Database Management:** DBMS, Biological Databases
+- **Database Management:** DBMS, Biological Databases, Google Bigquery
 
 
 ---
