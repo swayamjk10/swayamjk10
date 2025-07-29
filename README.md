@@ -5,7 +5,7 @@
 **Discovering possibilities | Growing with data-driven insights**
 
 - 🧬 Skilled with [exploratory data analysis, statistical analysis, bioinformatics workflows, genomic and transcriptomic studies, next-generation sequencing (NGS), database management systems (DBMS), biological databases, and shell scripting.]
-- 🔗 Find out more about me here: [swayamkorgaonkar](https://swayamkorgaonkar.my.canva.site/)
+- 🔗 Find out more about me here: [swayamkorgaonkar](https://swayamkorgaonkar.carrd.co/)
 - 📚 Currently in final year of masters in Bioinformatics and System Biology
   
 ### 🌱 Tools and Technologies
@@ -21,7 +21,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamjk10&layout=compact&theme=default)
 
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: swayamk4@gmail.com
+- 📫 How to reach me: swayamkorgaonkar1@gmail.com
 
 - ⚡ My Favourite Quote: **"If you can't make it good, at least make it look good - Bill Gates"**
 -->
