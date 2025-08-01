@@ -21,7 +21,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamjk10&layout=compact&theme=default)
 
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: swayamkorgaonkar1@gmail.com
+- 📫 How to reach me: swayam.korgaonkar41@gmail.com
 
 - ⚡ My Favourite Quote: **"If you can't make it good, at least make it look good - Bill Gates"**
 -->
